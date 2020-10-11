@@ -1,0 +1,14 @@
+pipeline{
+   agent any
+     stages {
+      stage('test'){
+         steps {
+         sh```
+         echo "Running Server"
+         sleep 1
+         echo "Wait for 1 min"
+         ```
+         }
+       }
+   }
+}
