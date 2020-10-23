@@ -19,7 +19,7 @@
 2. [Ghost Inspector](https://plugins.jenkins.io/ghost-inspector/)
 
 
-#### Certified Jenkins Engineer (CJE)
+#### [Certified Jenkins Engineer (CJE)](https://www.cloudbees.com/jenkins/certification)
 --------------------------------------
 
 | Number of Questions |  Pattern of Question      |     Time        |
