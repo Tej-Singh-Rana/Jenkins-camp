@@ -26,6 +26,6 @@
 |---------------------|---------------------------|-----------------|
 |        60           | multiple-choice questions |     90 minutes  |
 
-#### Core Topics
+#### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
 - 
