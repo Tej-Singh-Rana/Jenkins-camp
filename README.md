@@ -25,3 +25,7 @@
 | Number of Questions |  Pattern of Question      |     Time        |
 |---------------------|---------------------------|-----------------|
 |        60           | multiple-choice questions |     90 minutes  |
+
+#### Core Topics
+
+- 
