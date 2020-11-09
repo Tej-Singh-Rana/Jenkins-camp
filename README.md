@@ -28,4 +28,5 @@
 
 #### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
+- [Installation](https://www.jenkins.io/doc/book/installing/linux/#prerequisites)
 - 
