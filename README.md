@@ -31,3 +31,4 @@
 - [Installation](https://www.jenkins.io/doc/book/installing/linux/#prerequisites)
 - [Environment Variables](https://www.jenkins.io/doc/book/pipeline/jenkinsfile/#using-environment-variables)
 - [Testing Environment](https://www.jenkins.io/doc/developer/testing/)
+- [Manage Jenkins](https://www.jenkins.io/doc/book/managing/)
