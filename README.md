@@ -34,7 +34,7 @@
 - [Manage Jenkins](https://www.jenkins.io/doc/book/managing/)
 - [Manage plugins](https://www.jenkins.io/doc/book/managing/plugins/)
 - [Pipeline Syntax](https://www.jenkins.io/doc/book/pipeline/syntax/)
-
-
+- [Multibranch Pipeline](https://www.jenkins.io/doc/book/pipeline/multibranch/)
+- 
 
 
