@@ -33,3 +33,8 @@
 - [Testing Environment](https://www.jenkins.io/doc/developer/testing/)
 - [Manage Jenkins](https://www.jenkins.io/doc/book/managing/)
 - [Manage plugins](https://www.jenkins.io/doc/book/managing/plugins/)
+- [Pipeline Syntax](https://www.jenkins.io/doc/book/pipeline/syntax/)
+
+
+
+
