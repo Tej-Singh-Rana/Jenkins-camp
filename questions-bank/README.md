@@ -31,3 +31,35 @@ https://www.jenkins.io/doc/book/installing/linux/#prerequisites
 Yes, we can install Jenkins on Windows.<br>
 https://www.jenkins.io/doc/book/installing/windows/#windows
 </Details>  
+
+#### What is the default path of the initialAdminPassword in the `Linux` distributions system?
+
+<Details>
+<summary>Solution</summary>
+Default path is /var/lib/jenkins/secrets/. <br>
+https://www.jenkins.io/doc/book/installing/windows/#unlocking-jenkins
+</Details>
+
+#### 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
