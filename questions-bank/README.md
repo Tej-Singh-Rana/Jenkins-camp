@@ -37,10 +37,16 @@ https://www.jenkins.io/doc/book/installing/windows/#windows
 <Details>
 <summary>Solution</summary>
 Default path is /var/lib/jenkins/secrets/. <br>
-https://www.jenkins.io/doc/book/installing/windows/#unlocking-jenkins
+https://www.jenkins.io/doc/book/installing/linux/#unlocking-jenkins
 </Details>
 
-#### 
+#### What is the default path of the initialAdminPassword in the `Docker` based Jenkins container?
+
+<Details>
+<summary>Solution</summary>
+Default path is /var/jenkins_home/secrets/. <br>
+https://www.jenkins.io/doc/book/installing/docker/#unlocking-jenkins
+</Details>
   
 
 
