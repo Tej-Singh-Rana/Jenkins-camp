@@ -24,4 +24,10 @@ Minimum 256MB of RAM required to run Jenkins.<br>
 https://www.jenkins.io/doc/book/installing/linux/#prerequisites
 </Details>
 
-#### 
+#### Can we install Jenkins on Windows?
+
+<Details>
+<summary>Solution</summary>
+Yes, we can install Jenkins on Windows.<br>
+https://www.jenkins.io/doc/book/installing/windows/#windows
+</Details>  
