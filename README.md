@@ -35,6 +35,6 @@
 - [Manage plugins](https://www.jenkins.io/doc/book/managing/plugins/)
 - [Pipeline Syntax](https://www.jenkins.io/doc/book/pipeline/syntax/)
 - [Multibranch Pipeline](https://www.jenkins.io/doc/book/pipeline/multibranch/)
-- 
-
+- [Jenkins CLI](https://www.jenkins.io/doc/book/managing/cli/)
+- [Script Console](https://www.jenkins.io/doc/book/managing/script-console/)
 
