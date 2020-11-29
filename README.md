@@ -37,4 +37,4 @@
 - [Multibranch Pipeline](https://www.jenkins.io/doc/book/pipeline/multibranch/)
 - [Jenkins CLI](https://www.jenkins.io/doc/book/managing/cli/)
 - [Script Console](https://www.jenkins.io/doc/book/managing/script-console/)
-
+- [Logs](https://www.jenkins.io/doc/book/system-administration/viewing-logs/#viewing-logs)
