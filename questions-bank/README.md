@@ -132,11 +132,81 @@ https://www.jenkins.io/doc/book/installing/#installing-jenkins <br>
 https://www.jenkins.io/doc/book/installing/initial-settings/#jenkins-parameters  
   </Details>
 
+#### During `POST-INSTALLATION WIZARD` process, What kind of three instructions you will see when you access Jenkins from the browser for the first time?
+
+<Details>
+  <summary>Solution</summary>
+  <b>(a.)</b> Unlock Jenkins <b>(b.)</b> Install essential plugins (Customize Jenkins Plugins) <b>(c.)</b> Create first admin user <br>
+ https://www.jenkins.io/doc/book/installing/windows/#setup-wizard
+</Details>
+
+#### Can we modify the default Jenkins URL before viewing the Jenkins home page?
+
+<Details>
+  <summary>Solution</summary>
+  Yes, we can modify the default Jenkins URL before viewing the Jenkins Dashboard. If we'll not modify that time then we have to go to <b>Manage Jenkins > Configure System > Jenkins Location</b> Section. <br>
+https://stackoverflow.com/a/17711268/12522533 <br>
+https://wiki.jenkins.io/display/JENKINS//Starting+and+Accessing+Jenkins
+  </Details>
+
+#### Can we install the additional plugins in Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+Yes, You can install the additional plugins anytime. You have to go into the <b>Manage Jenkins > Manage Plugins aka Plugin Manager</b>. <br>
+You will see <b>Updated, Available, Installed and Advanced</b> Section. <br> 
+https://www.jenkins.io/doc/book/managing/plugins/#installing-a-plugin
+  </Details>
 
 
+####
 
+<Details>
+  <summary>Solution</summary>
+  
+  </Details>
 
+#### 
 
+<Details>
+  <summary>Solution</summary>
+  
+  </Details>
+
+####
+
+<Details>
+  <summary>Solution</summary>
+  
+  </Details>
+
+####
+
+<Details>
+  <summary>Solution</summary>
+  
+  </Details>
+
+####
+
+<Details>
+  <summary>Solution</summary>
+  
+  </Details>
+
+####
+
+<Details>
+  <summary>Solution</summary>
+  
+  </Details>
+
+####
+
+<Details>
+  <summary>Solution</summary>
+  
+  </Details>
 
 
 
