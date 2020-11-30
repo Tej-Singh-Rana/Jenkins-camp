@@ -98,14 +98,15 @@ Before Jenkins version 2.238, .NET Framework 2.0 was supported. <br>
 https://www.jenkins.io/doc/administration/requirements/windows/#net-requirements
   </Details>
 
-####
+#### What is the default location of Jenkins Home in Windows?
 
 <Details>
   <summary>Solution</summary>
-  
+  It's a <b>%JENKINS_HOME%</b> of User home directory. <br>
+  https://www.jenkins.io/blog/2020/08/12/windows-installers-upgrade/#road-forward
   </Details>
 
-####
+#### 
 
 <Details>
   <summary>Solution</summary>
