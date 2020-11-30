@@ -60,7 +60,7 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 <Details>
   <summary>Solution</summary>
-  It is <b>/etc/default/jenkins</b> or <b>/etc/sysconfig/jenkins</b>. <br>
+  It is a <b>/etc/default/jenkins</b> or <b>/etc/sysconfig/jenkins</b>. <br>
 https://support.cloudbees.com/hc/en-us/articles/209715698-How-to-add-Java-arguments-to-Jenkins-#traditionalplatform
   </Details>
 
@@ -68,15 +68,18 @@ https://support.cloudbees.com/hc/en-us/articles/209715698-How-to-add-Java-argume
 
 <Details>
   <summary>Solution</summary>
-  It is <b>/etc/default/jenkins</b> or <b>/etc/sysconfig/jenkins</b>. <br>
+  It is a <b>/etc/default/jenkins</b> or <b>/etc/sysconfig/jenkins</b>. <br>
   https://support.cloudbees.com/hc/en-us/articles/209715698-How-to-add-Java-arguments-to-Jenkins-#debianubuntubasedlinuxdistributions
   </Details>
 
-####
+#### What is the default `$JENKINS_HOME` path in the Linux distributions?
 
 <Details>
   <summary>Solution</summary>
-  
+  It's a <b>/var/lib/jenkins</b>. <br>
+  https://www.jenkins.io/doc/book/installing/linux/#unlocking-jenkins <br>
+  https://docs.cloudbees.com/docs/admin-resources/latest/backup-restore/jenkins-home <br>
+  https://wiki.jenkins.io/display/JENKINS/Administering+Jenkins <br>
   </Details>
 
 ####
