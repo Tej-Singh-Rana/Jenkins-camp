@@ -159,25 +159,27 @@ https://www.jenkins.io/doc/book/managing/plugins/#installing-a-plugin
   </Details>
 
 
-####
+#### What is the name and location of the root configuration file of Jenkins?
 
 <Details>
   <summary>Solution</summary>
+  Name of the root configuration file of Jenkins is <b>config.xml</b> and location path is <b>/var/lib/jenkins/config.xml</b> and common for all Linux distributions. <br>
+  https://jenkins-le-guide-complet.github.io/html/sec-hudson-home-directory-contents.html
+  </Details>
+
+#### What is the path of installed plugins in Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  Path is <b>/var/lib/jenkins/plugins/</b>. <br>
   
   </Details>
 
-#### 
+#### What is the path of where it stored `build job workspaces, history and artifacts` in Jenkins?
 
 <Details>
   <summary>Solution</summary>
-  
-  </Details>
-
-####
-
-<Details>
-  <summary>Solution</summary>
-  
+  Path is <b>/var/lib/jenkins/jobs/</b>. <br>
   </Details>
 
 ####
