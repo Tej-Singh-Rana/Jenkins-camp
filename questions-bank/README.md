@@ -47,10 +47,63 @@ https://www.jenkins.io/doc/book/installing/linux/#unlocking-jenkins
 Default path is /var/jenkins_home/secrets/. <br>
 https://www.jenkins.io/doc/book/installing/docker/#unlocking-jenkins
 </Details>
+
+#### Jenkins is distributed as:
+
+<Details>
+<summary>Solution</summary>
+  <b>(a.)</b> OS native packages (RPM, DEB ...)/Windows (MSI Installer) <b>(b.)</b> WAR (Web Application Archive/Web Application Resource) File <b>(c.)</b> Docker Image <b>(d.)</b> Cloud Templates (Azure, AWS, GCP) <br>
+https://www.jenkins.io/download/#downloading-jenkins
+</Details>
+
+####
+
+<Details>
+  <summary>Solution></summary>
   
+  </Details>
 
+####
 
+<Details>
+  <summary>Solution></summary>
+  
+  </Details>
 
+####
+
+<Details>
+  <summary>Solution></summary>
+  
+  </Details>
+
+####
+
+<Details>
+  <summary>Solution></summary>
+  
+  </Details>
+
+####
+
+<Details>
+  <summary>Solution></summary>
+  
+  </Details>
+
+####
+
+<Details>
+  <summary>Solution></summary>
+  
+  </Details>
+
+####
+
+<Details>
+  <summary>Solution></summary>
+  
+  </Details>
 
 
 
