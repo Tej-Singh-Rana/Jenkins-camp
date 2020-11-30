@@ -98,7 +98,7 @@ Before Jenkins version 2.238, .NET Framework 2.0 was supported. <br>
 https://www.jenkins.io/doc/administration/requirements/windows/#net-requirements
   </Details>
 
-#### What is the default location of Jenkins Home in Windows?
+#### What is the default location of Jenkins home directory in Windows?
 
 <Details>
   <summary>Solution</summary>
@@ -106,12 +106,32 @@ https://www.jenkins.io/doc/administration/requirements/windows/#net-requirements
   https://www.jenkins.io/blog/2020/08/12/windows-installers-upgrade/#road-forward
   </Details>
 
-#### 
+#### Which of the two options will appear after unlocking Jenkins?
 
 <Details>
   <summary>Solution</summary>
-  
+  <b>(a.)</b> Install suggested plugins  <b>(b.)</b> Select plugins to install <br>
+  https://www.jenkins.io/doc/book/installing/windows/#customizing-jenkins-with-plugins
   </Details>
+  
+#### Can we skip the e-mail ID of user while registering in `Create First Admin User` page?
+
+<Details>
+  <summary>Solution</summary>
+No, e-mail ID is required while adding name of user, password, e-mail. Otherwise it will give an error. <br>
+  </Details>
+
+#### WAR file based installation of Jenkins can be run as a stand-alone application in a servlet container?
+
+<Details>
+  <summary>Solution</summary>
+Yes, It's run as a stand-alone application in a servlet container. <br>
+  <b>$ java ${JAVA_OPTS} -jar jenkins.war ${JENKINS_OPTS}</b> <br>
+  <b>Note:</b> If you misspell in command line parameters, Jenkins ignores it rather than generating an error. <br>
+https://www.jenkins.io/doc/book/installing/#installing-jenkins <br>
+https://www.jenkins.io/doc/book/installing/initial-settings/#jenkins-parameters  
+  </Details>
+
 
 
 
