@@ -4,7 +4,7 @@
 
 <Details>
 <summary>Solution</summary>
-Yes, It's mandatory.<br>
+Yes, It's mandatory. <br>
 https://www.jenkins.io/doc/book/installing/linux/#prerequisites
 </Details>
 
@@ -12,7 +12,7 @@ https://www.jenkins.io/doc/book/installing/linux/#prerequisites
 
 <Details>
 <summary>Solution</summary>
-In java, between 8 to 12. It supports only 8 and 11.<br>
+In java, between 8 to 12. It supports only 8 and 11. <br>
 https://www.jenkins.io/doc/administration/requirements/java/#java-requirements
 </Details>
 
@@ -20,7 +20,7 @@ https://www.jenkins.io/doc/administration/requirements/java/#java-requirements
 
 <Details>
 <summary>Solution</summary>
-Minimum 256MB of RAM required to run Jenkins.<br>
+Minimum 256MB of RAM required to run Jenkins. <br>
 https://www.jenkins.io/doc/book/installing/linux/#prerequisites
 </Details>
 
@@ -28,7 +28,7 @@ https://www.jenkins.io/doc/book/installing/linux/#prerequisites
 
 <Details>
 <summary>Solution</summary>
-Yes, we can install Jenkins on Windows.<br>
+Yes, we can install Jenkins on Windows. <br>
 https://www.jenkins.io/doc/book/installing/windows/#windows
 </Details>  
 
@@ -36,7 +36,7 @@ https://www.jenkins.io/doc/book/installing/windows/#windows
 
 <Details>
 <summary>Solution</summary>
-Default path is /var/lib/jenkins/secrets/. <br>
+  Default path is <b>/var/lib/jenkins/secrets/</b>. <br>
 https://www.jenkins.io/doc/book/installing/linux/#unlocking-jenkins
 </Details>
 
@@ -44,7 +44,7 @@ https://www.jenkins.io/doc/book/installing/linux/#unlocking-jenkins
 
 <Details>
 <summary>Solution</summary>
-Default path is /var/jenkins_home/secrets/. <br>
+  Default path is <b>/var/jenkins_home/secrets/</b>. <br>
 https://www.jenkins.io/doc/book/installing/docker/#unlocking-jenkins
 </Details>
 
@@ -56,52 +56,54 @@ https://www.jenkins.io/doc/book/installing/docker/#unlocking-jenkins
 https://www.jenkins.io/download/#downloading-jenkins
 </Details>
 
+#### What is the location of the file where we can change default Jenkins user, log, home and arguments to pass to Jenkins such as `--httpListenAddress`, `--httpPort`?
+
+<Details>
+  <summary>Solution</summary>
+  It is <b>/etc/default/jenkins</b> or <b>/etc/sysconfig/jenkins</b>. <br>
+https://support.cloudbees.com/hc/en-us/articles/209715698-How-to-add-Java-arguments-to-Jenkins-#traditionalplatform
+  </Details>
+
+#### What is the location of the file where we can change the default `JVM` options in Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  It is <b>/etc/default/jenkins</b> or <b>/etc/sysconfig/jenkins</b>. <br>
+  https://support.cloudbees.com/hc/en-us/articles/209715698-How-to-add-Java-arguments-to-Jenkins-#debianubuntubasedlinuxdistributions
+  </Details>
+
 ####
 
 <Details>
-  <summary>Solution></summary>
+  <summary>Solution</summary>
   
   </Details>
 
 ####
 
 <Details>
-  <summary>Solution></summary>
+  <summary>Solution</summary>
   
   </Details>
 
 ####
 
 <Details>
-  <summary>Solution></summary>
+  <summary>Solution</summary>
   
   </Details>
 
 ####
 
 <Details>
-  <summary>Solution></summary>
+  <summary>Solution</summary>
   
   </Details>
 
 ####
 
 <Details>
-  <summary>Solution></summary>
-  
-  </Details>
-
-####
-
-<Details>
-  <summary>Solution></summary>
-  
-  </Details>
-
-####
-
-<Details>
-  <summary>Solution></summary>
+  <summary>Solution</summary>
   
   </Details>
 
