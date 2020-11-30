@@ -167,7 +167,7 @@ https://www.jenkins.io/doc/book/managing/plugins/#installing-a-plugin
   https://jenkins-le-guide-complet.github.io/html/sec-hudson-home-directory-contents.html
   </Details>
 
-#### What is the path of installed plugins in Jenkins?
+#### What is the path of installed plugins for Jenkins?
 
 <Details>
   <summary>Solution</summary>
@@ -175,18 +175,18 @@ https://www.jenkins.io/doc/book/managing/plugins/#installing-a-plugin
   
   </Details>
 
-#### What is the path of where it stored `build job workspaces, history and artifacts` in Jenkins?
+#### What is the path of where it stores `build job workspaces, history and artifacts` of Jenkins?
 
 <Details>
   <summary>Solution</summary>
   Path is <b>/var/lib/jenkins/jobs/</b>. <br>
   </Details>
 
-####
+#### Where is it store the local user database of Jenkins?
 
 <Details>
   <summary>Solution</summary>
-  
+  Path is <b>/var/lib/jenkins/users/</b>. <br>
   </Details>
 
 ####
