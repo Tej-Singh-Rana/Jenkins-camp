@@ -86,15 +86,16 @@ https://support.cloudbees.com/hc/en-us/articles/209715698-How-to-add-Java-argume
 
 <Details>
   <summary>Solution</summary>
-  No, Microsoft .NET Framework 2.0 support removed in Jenkins version 2.249.1 and above. <br>
+  No, Microsoft .NET Framework 2.0 support removed in Jenkins version 2.249.1. Actually starting from Jenkins version 2.238, .NET Framework 4.0 or above is required for all Windows service installations and built-in Windows service management logic. <br>
   https://www.jenkins.io/doc/upgrade-guide/2.249/#upgrading-to-jenkins-lts-2-249-1
   </Details>
 
-#### 
+#### In which version of Jenkins it was supported .NET Framework 2.0?
 
 <Details>
   <summary>Solution</summary>
-  
+Before Jenkins version 2.238, .NET Framework 2.0 was supported. <br>
+https://www.jenkins.io/doc/administration/requirements/windows/#net-requirements
   </Details>
 
 ####
