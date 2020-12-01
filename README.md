@@ -26,6 +26,11 @@
 |---------------------|---------------------------|-----------------|
 |        60           | multiple-choice questions |     90 minutes  |
 
+#### [Subjective Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
+
+- [Memory Management](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html)
+- [Cancellation of Jobs](https://gist.github.com/datagrok/dfe9604cb907523f4a2f#when-you-cancel-a-jenkins-job)
+
 #### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
 - [Installation](https://www.jenkins.io/doc/book/installing/linux/#prerequisites)
@@ -44,7 +49,7 @@
 - [Matrix Based Security](https://wiki.jenkins.io/display/JENKINS/Matrix-based+security)
 - [withCredentials](https://www.jenkins.io/doc/pipeline/steps/credentials-binding/#credentials-binding-plugin)
 - [Inject Secret into Jenkins Pipeline using withCredentials](https://support.cloudbees.com/hc/en-us/articles/203802500-Injecting-Secrets-into-Jenkins-Build-Jobs?page=86#resolution)
-- [Cancellation of Jobs](https://gist.github.com/datagrok/dfe9604cb907523f4a2f#when-you-cancel-a-jenkins-job)
+
 
 
 
