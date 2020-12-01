@@ -1,6 +1,6 @@
 ### Installation
 
-#### Does java requires to install Jenkins?
+#### Does Java requires to install Jenkins?
 
 <Details>
 <summary>Solution</summary>
@@ -8,11 +8,11 @@ Yes, It's mandatory. <br>
 https://www.jenkins.io/doc/book/installing/linux/#prerequisites
 </Details>
 
-#### Which version of java does Jenkins support?
+#### Which version of Java does Jenkins support?
 
 <Details>
 <summary>Solution</summary>
-In java, between 8 to 12. It supports only 8 and 11. <br>
+In Java, between Java 8 to 12. It supports only Java 8 and 11. Java 9 and 10 are not supported. <br>
 https://www.jenkins.io/doc/administration/requirements/java/#java-requirements
 </Details>
 
