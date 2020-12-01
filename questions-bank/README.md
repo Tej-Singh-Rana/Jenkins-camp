@@ -257,7 +257,7 @@ https://www.jenkins.io/doc/book/managing/plugins/#installing-a-plugin
 
 </Details>
 
-#### In Jenkins dashboard, which section tell us about upgrades are available?
+#### In Jenkins Dashboard, which section tell us about upgrades are available?
 
 <Details>
   <summary>Solution</summary>
@@ -284,14 +284,17 @@ https://www.jenkins.io/doc/book/managing/plugins/#installing-a-plugin
 <Details>
   <summary>Solution</summary>
   Path is <b>/usr/share/jenkins/</b> on Linux systems. <br>
+  After replace with the new WAR file, restart the Jenkins service to apply the upgrades. <br>
 </Details>
 
-####
+#### What is the simplest option I have to choose If I have to share some information with other users?
 
 <Details>
   <summary>Solution</summary>
-  
-  </Details>
+  We can write information in the <b>System Message</b> Box, which is located at <b>Manage Jenkins > Configure System</b> section. <br>
+  As we know that the <b>Global System Message</b> in Jenkins clearly indicates that this message should only be shown on the "top of our Jenkins home page". So we can use this option. <br>
+	
+</Details>
 
 ####
 
