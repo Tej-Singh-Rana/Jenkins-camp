@@ -189,6 +189,74 @@ https://www.jenkins.io/doc/book/managing/plugins/#installing-a-plugin
   Path is <b>/var/lib/jenkins/users/</b>. <br>
   </Details>
 
+#### What is the command to start the Jenkins Web application ARchive (WAR) file from the command line?
+
+<Details>
+	<summary>Solution</summary>
+	<b>java -jar jenkins.war</b> <br>
+  If you don't want to run the Jenkins on default port <b>8080</b> and wants to run on port <b>9595</b> then specify <b>--httpPort</b> flag. <br>
+	<b>java -jar jenkins.war --httpPort=9595</b> <br>
+	https://www.jenkins.io/doc/book/installing/war-file/#run-the-war-file
+
+</Details>
+
+#### In Jenkins, Which process generates the artifacts, logs and history?
+
+<Details>
+  <summary>Solution</summary>
+  That's <b>builds</b> process. 
+  
+</Details>
+
+#### What kind of expandable volumes available for Jenkins in Windows and Linux systems?
+
+<Details>
+  <summary>Solution</summary>
+  <b>(a.)</b> "Spanned volume" on Windows <b>(b.)</b> "LVM" on Linux <br>
+
+</Details> 
+
+#### What is the most common command line flags which we can use with `java -jar jenkins.war ${JENKINS_OPTIONS}` for Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  Jenkins Flags/Options: <br>
+  <b>--prefix (default: /), --httpPort (default: 8080), --httpListenAddress (default: 0.0.0.0), --logfile </b> <br>
+  <b>java ${JAVA_OPTIONS} -jar jenkins.war ${JENKINS_OPTIONS}</b>
+</Details>
+
+#### What is the final command if we add `prefix=/apps`, `httpPort=8085` to WAR file to start Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  <b>java -jar jenkins.war --httpPort=8085 --prefix=/apps --httpListenAddress=127.0.0.1</b> <br>
+  After that we can access in the browser url <b>http://127.0.0.1:8085/apps</b> <br>
+  https://www.jenkins.io/doc/book/installing/initial-settings/#configuring-http
+
+</Details>
+
+#### Can we install Jenkins in a `Docker` and `Kubernetes`?
+
+<Details>
+  <summary>Solution</summary>
+  <b>Yes, we can install Jenkins in a <b>Docker</b> container and <b>Kubernetes</b> Pod's container.</b> <br>
+  https://www.jenkins.io/doc/book/installing/docker/ <br>
+  https://hub.docker.com/r/jenkins/jenkins/ <br>
+  https://www.jenkins.io/doc/book/installing/kubernetes/ <br>
+
+</Details>
+
+#### How many ways we can set `JENKINS_HOME` directory for Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  In generally three ways: <br>
+  <b>(a.)</b> By setting <b>Environment Variable</b> <b>(b.)</b> By setting <b>System Property</b> <b>(c.)</b> By setting <b>JNDI (Java Naming and Directory Interface) Environment</b> <br>
+  We can set <b>~/.jenkins</b> for system configuration. <br>
+  https://wiki.jenkins.io/display/JENKINS/Administering+Jenkins
+
+</Details>
+
 ####
 
 <Details>
