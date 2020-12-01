@@ -252,9 +252,38 @@ https://www.jenkins.io/doc/book/managing/plugins/#installing-a-plugin
   <summary>Solution</summary>
   In generally three ways: <br>
   <b>(a.)</b> By setting <b>Environment Variable</b> <b>(b.)</b> By setting <b>System Property</b> <b>(c.)</b> By setting <b>JNDI (Java Naming and Directory Interface) Environment</b> <br>
-  We can set <b>~/.jenkins</b> for system configuration. <br>
+  We can also set in <b>~/.jenkins</b> for system configuration. It's appear in the User's home directory when we install Jenkins from WAR file. <br>
   https://wiki.jenkins.io/display/JENKINS/Administering+Jenkins
 
+</Details>
+
+#### In Jenkins dashboard, which section tell us about upgrades are available?
+
+<Details>
+  <summary>Solution</summary>
+  That's <b>Manage Jenkins</b> section. <br>
+  https://jenkins-le-guide-complet.github.io/html/sect-installation-upgrading.html
+  
+</Details>
+
+#### What is the use case and location of `Prepare for Shutdown`?
+
+<Details>
+  <summary>Solution</summary>
+  <b>Prepare for Shutdown</b> is initiate to a graceful shutdown of Jenkins. It's ensure that no jobs build during shutdown. <br>
+  It's available in the <b>Manage Jenkins > Prepare for Shutdown</b>. <br>
+  We can do gracefully shutdown from the browser also. <br>
+  <b>http://127.0.0.1:8080/quietDown</b> <br>
+  We can perform restart and exit as well. <br>
+  https://support.cloudbees.com/hc/en-us/articles/216118748-How-to-Start-Stop-or-Restart-your-Instance-
+
+</Details>
+
+#### During the process of upgrading Jenkins, to the next available version. What is the default location of `jenkins.war` file on Linux systems to replace with the new one?
+
+<Details>
+  <summary>Solution</summary>
+  Path is <b>/usr/share/jenkins/</b> on Linux systems. <br>
 </Details>
 
 ####
