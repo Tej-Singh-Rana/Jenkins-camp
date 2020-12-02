@@ -296,11 +296,12 @@ https://www.jenkins.io/doc/book/managing/plugins/#installing-a-plugin
 	
 </Details>
 
-####
+#### What kind of configuration we can do in the `System Configuration` section in Jenkins?
 
 <Details>
   <summary>Solution</summary>
-  
+  We can configure <b>Security, JDK Installations, Version Control Tools (Git), Build Tools (Ant, Gradle and Maven), Global properties, Jenkins location, e-mail notification, Plugin configurations.</b> <br>
+  <b>System Configuration</b> is located at <b>Manage Jenkins</b>. <br>
   </Details>
 
 ####
