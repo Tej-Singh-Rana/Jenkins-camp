@@ -304,11 +304,11 @@ https://www.jenkins.io/doc/book/managing/plugins/#installing-a-plugin
   <b>System Configuration</b> is located at <b>Manage Jenkins</b>. <br>
   </Details>
 
-####
+#### What we have to do prevent builds in the master node?
 
 <Details>
   <summary>Solution</summary>
-  
+  Make it <b>Executor</b> count to 0.
   </Details>
 
 
