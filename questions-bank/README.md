@@ -429,3 +429,11 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### How many `Source Code Management (SCM) Tools` do you know which Jenkins supports?
+
+<Details>
+  <summary>Solution</summary>
+  Lists are : <b>Subversion, Mercurial, Perforce, Team Foundation Server, Git, Concurrent Versions System (CVS) etc.</b> <br>
+  https://devops.stackexchange.com/a/22
+  
+</Details>
