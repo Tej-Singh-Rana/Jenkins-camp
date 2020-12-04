@@ -400,6 +400,12 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### What is the two options we will get in the `Post-installation setup wizard` to install plugins in the installation of Jenkins?
 
+<Details>
+  <summary>Solution</summary>
+  <b>(a.) Install suggested plugins</b>, which are based on common use cases. <b>(b.) Select plugins to install</b>, which are used to install set of plugins not all suggested plugins. <br>
+  https://www.jenkins.io/doc/book/installing/linux/#customizing-jenkins-with-plugins
 
+</Details>
 
