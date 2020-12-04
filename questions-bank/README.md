@@ -404,7 +404,7 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 <Details>
   <summary>Solution</summary>
-  <b>(a.) Install suggested plugins</b>, which are based on common use cases. <b>(b.) Select plugins to install</b>, which are used to install set of plugins not all suggested plugins. <br>
+  <b>(a.) Install suggested plugins</b>, which are based on common use cases. <b>(b.) Select plugins to install</b>, which are used to install set of plugins not all suggested plugins. By default, it selected all the suggested/common plugins in the <b>Select plugins to install</b> section. We have to do untick which we don't want to install. <br>
   https://www.jenkins.io/doc/book/installing/linux/#customizing-jenkins-with-plugins
 
 </Details>
@@ -433,7 +433,8 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 <Details>
   <summary>Solution</summary>
-  Lists are : <b>Subversion, Mercurial, Perforce, Team Foundation Server, Git, Concurrent Versions System (CVS) etc.</b> <br>
+  Lists are : <b>Subversion, Mercurial, Perforce, Team Foundation Server (TFS), GitHub, Concurrent Versions System (CVS), REPO, GitLab, P4, Bitbucket, ClearCase etc.</b> <br>
   https://devops.stackexchange.com/a/22
   
 </Details>
+
