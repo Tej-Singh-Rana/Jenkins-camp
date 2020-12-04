@@ -391,7 +391,14 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### How many ways you can see the installed plugins on the master controller?
 
+<Details>
+  <summary>Solution</summary>
+  We can check installed plugins in three ways, <b>(a.)</b> Manage Plugins <b></b> <b>(c.) System Information</b> both are located in <b>Manage Jenkins</b> and <b>(c.)</b> In the <b>$JENKINS_HOME/plugins/ (/var/lib/jenkins/plugins/)</b> on the host system. <br>
+  https://www.jenkins.io/doc/book/managing/plugins/
+
+</Details>
 
 
 
