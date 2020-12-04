@@ -409,3 +409,11 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### What is the location of `Executor` in the Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  It's located at <b>Manage Jenkins > Configure System</b>. By default, it sets to 2. There is no fix number to set maximum number of executor. <br>
+  https://support.cloudbees.com/hc/en-us/articles/216456477-What-is-a-Jenkins-Executor-and-how-can-I-best-utilize-my-executors
+
+</Details>
