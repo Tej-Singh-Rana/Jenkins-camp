@@ -418,3 +418,14 @@ https://www.jenkins.io/download/#downloading-jenkins
   https://support.cloudbees.com/hc/en-us/articles/115002654991-Remoting-Best-Practices#numberofexecutors
 
 </Details>
+
+#### What is the default value of `quiet-period` in the Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  Defaults to 0. <br>
+  <b>Quiet Period :</b> Provide a gaps between builds. In the queue, <b>Build A and Build B</b>. We set <b>quiet period</b> to 2min so after successful <b>Build A</b>, process will take a break of 2min to start build for <b>Build B</b>.  <br>
+  https://www.jenkins.io/blog/2010/08/11/quiet-period-feature/ <br>
+
+</Details>
+
