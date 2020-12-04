@@ -382,7 +382,14 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details>
 
+#### What is the location to set the `HTTP Proxy Configuration` in the Jenkins?
 
+<Details>
+  <summary>Solution</summary>
+  You have to go into the <b>Manage Jenkins > Manage Plugins > Advanced</b> tab. <br>
+  https://wiki.jenkins.io/display/JENKINS/JenkinsBehindProxy
+
+</Details>
 
 
 
