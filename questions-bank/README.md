@@ -544,3 +544,31 @@ https://www.jenkins.io/download/#downloading-jenkins
   We can install direct from the Apache site or locally available archive file. All different kind of options are available in the <b>Add Installer</b> tab. <br>
 
 </Details>
+
+#### Is it possible to restart the Jenkins without access `Jenkins Service` in the system?
+
+<Details>
+  <summary>Solution</summary>
+  Yes, it's possible via <b>Reload Configuration from Disk</b> option. It's located in the bottom at <b>Manage Jenkins</b>. <br>
+  <b>Highlighted section - Tools and Actions.</b>  <br>
+  https://support.cloudbees.com/hc/en-us/articles/209691677-What-does-Reload-Configuration-from-Disk-do <br>
+	
+</Details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
