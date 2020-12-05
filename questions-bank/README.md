@@ -529,8 +529,18 @@ https://www.jenkins.io/download/#downloading-jenkins
   <summary>Solution</summary>
   Yes, we can install multiple versions of JDK package in the system as per use cases through Jenkins Web UI. <br>
   Go into the <b>Manage Jenkins > Global Tool Configuration > JDK</b>. <br> 
+  We can also install JDK from Oracle site and locally available archive file. All different kind of options are available in the <b>Add Installer</b> tab. <br>
   https://www.jenkins.io/doc/administration/requirements/upgrade-java-guidelines/ <br>
   https://plugins.jenkins.io/jdk-tool/ <br>
 
 </Details>
 
+#### Can we install `Maven` automatically in the Jenkins?  
+
+<Details>
+  <summary>Solution</summary>
+  Yes, We have to tick mark the option to <b>Install automatically</b> in the <b>Manage Jenkins > Global Tool Configuration > Maven</b>. <br>
+  First Maven plugin should be installed and configured to use. <br>  
+  We can install direct from the Apache site or locally available archive file. All different kind of options are available in the <b>Add Installer</b> tab. <br>
+
+</Details>
