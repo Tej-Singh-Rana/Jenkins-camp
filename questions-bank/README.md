@@ -555,6 +555,13 @@ https://www.jenkins.io/download/#downloading-jenkins
 	
 </Details>
 
+#### In the `Manage Plugins`, `installed plugin` section a few of the plugins are blocked (cannot be disabled/uninstall). What is the reason behind that?
+
+<Details>
+  <summary>Solution</summary>
+  Because they have one or more enabled dependents. For an e.g. <b>Pipeline: Groovy</b> dependent on <b>Pipeline, Pipeline: Declarative, Pipeline: Shared Groovy Libraries, Pipeline: Multibranch, Pipeline: Declarative Extensions Points API</b> etc. <br>
+
+</Details>
 
 
 
