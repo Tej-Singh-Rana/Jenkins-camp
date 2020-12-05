@@ -520,7 +520,17 @@ https://www.jenkins.io/download/#downloading-jenkins
   <summary>Solution</summary>
   <b>Build Tools: Gradle, Groovy, Ant, Maven etc. </b> <br>
   https://plugins.jenkins.io/
+
 </Details>
 
+#### Can we install multiple versions of JDK package from the Jenkins Web UI? 
 
+<Details>
+  <summary>Solution</summary>
+  Yes, we can install multiple versions of JDK package in the system as per use cases through Jenkins Web UI. <br>
+  Go into the <b>Manage Jenkins > Global Tool Configuration > JDK</b>. <br> 
+  https://www.jenkins.io/doc/administration/requirements/upgrade-java-guidelines/ <br>
+  https://plugins.jenkins.io/jdk-tool/ <br>
+
+</Details>
 
