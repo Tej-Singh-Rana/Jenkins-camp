@@ -487,3 +487,13 @@ https://www.jenkins.io/download/#downloading-jenkins
   https://updates.jenkins.io/#version-specific-update-sites
 
 </Details>
+
+#### By default, `Timestamper` is a builtin feature of Jenkins or install through plugin based?
+
+<Details>
+  <summary>Solution</summary>
+  <b>Timestamper</b> plugin based. By default, It's not available in the Jenkins instance. We have to install its plugin. It's used to define <b>Time Format</b>. <br>
+  https://www.jenkins.io/doc/pipeline/steps/timestamper/
+	
+</Details>
+
