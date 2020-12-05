@@ -38,6 +38,7 @@
 - [Testing Environment](https://www.jenkins.io/doc/developer/testing/)
 - [Manage Jenkins](https://www.jenkins.io/doc/book/managing/)
 - [Manage plugins](https://www.jenkins.io/doc/book/managing/plugins/)
+- [Manage Security](https://www.jenkins.io/doc/book/managing/security/)
 - [Pipeline Syntax](https://www.jenkins.io/doc/book/pipeline/syntax/)
 - [Multibranch Pipeline](https://www.jenkins.io/doc/book/pipeline/multibranch/)
 - [Jenkins CLI](https://www.jenkins.io/doc/book/managing/cli/)
