@@ -50,7 +50,7 @@
 - [Matrix Based Security](https://wiki.jenkins.io/display/JENKINS/Matrix-based+security)
 - [withCredentials](https://www.jenkins.io/doc/pipeline/steps/credentials-binding/#credentials-binding-plugin)
 - [Inject Secret into Jenkins Pipeline using withCredentials](https://support.cloudbees.com/hc/en-us/articles/203802500-Injecting-Secrets-into-Jenkins-Build-Jobs?page=86#resolution)
-
+- [Parameters](https://wiki.jenkins.io/display/jenkins/parameterized+build)
 
 
 
