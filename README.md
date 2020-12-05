@@ -30,6 +30,7 @@
 
 - [Memory Management](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html)
 - [Cancellation of Jobs](https://gist.github.com/datagrok/dfe9604cb907523f4a2f#when-you-cancel-a-jenkins-job)
+- [Define Parameters](https://wiki.jenkins.io/display/JENKINS/Define+Parameters)
 
 #### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
