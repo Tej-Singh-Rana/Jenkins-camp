@@ -438,3 +438,52 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details>
 
+#### What is the work of `JUnit` test in the Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  It consumes XML test reports which is generated during the builds and provides us graphical visualization of the test reports. <br>
+  https://www.jenkins.io/doc/pipeline/steps/junit/#junit-plugin <br>
+  https://wiki.jenkins.io/display/JENKINS/JUnit+graph
+
+</Details>
+
+#### What is the work of `xUnit` test in the Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  After installation and configuration of this <b>xUnit</b> plugin, Jenkins can transform test result reports produced by different testing tools into JUnit test result format. Under the hood it helps to display the test results. <br>
+  https://www.jenkins.io/doc/pipeline/steps/xunit/#xunit-plugin <br>
+  https://www.jenkins.io/blog/2016/10/31/xunit-reporting/ <br>
+  https://plugins.jenkins.io/xunit/
+
+</Details>
+
+#### Where we can update the site in Jenkins to download new plugins from different site?  
+
+<Details>
+  <summary>Solution</summary>
+  Go into the <b>Manage Jenkins > Manage Plugins (PluginManager) > Advanced tab</b> after that at the bottom we can see <b>Update Site</b> section. Update with the new site URL. <br>
+  https://updates.jenkins.io/
+
+</Details>
+
+#### How many categories available in the `Experimental Plugin Site`?
+
+<Details>
+  <summary>Solution</summary>
+  There is only <b>alpha</b> and <b>beta</b>. <br>
+  https://updates.jenkins.io/#experimental-plugin-site
+
+</Details>
+
+#### In case of `Version-Specific Update Sites`, what is the format to update site for a specific version?
+
+<Details>
+  <summary>Solution</summary>
+  Jenkins added a query parameter <b>?version</b> to the update site URL for a specific version number. So format is: <br>
+  <b>https://updates.jenkins.io/update-center.json?version=2.263.1</b> <br>
+  We specified version number to look only for that version specific updates not for all (version) one which is available in the <b>Update Center</b>. <br>
+  https://updates.jenkins.io/#version-specific-update-sites
+
+</Details>
