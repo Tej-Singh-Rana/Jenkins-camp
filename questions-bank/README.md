@@ -514,3 +514,13 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### Most popular build tools in Jenkins:
+
+<Details>
+  <summary>Solution</summary>
+  <b>Build Tools: Gradle, Groovy, Ant, Maven etc. </b> <br>
+  https://plugins.jenkins.io/
+</Details>
+
+
+
