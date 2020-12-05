@@ -497,3 +497,20 @@ https://www.jenkins.io/download/#downloading-jenkins
 	
 </Details>
 
+#### Where can we update the `system admin e-mail address`?
+
+<Details>
+  <summary>Solution</summary>
+  In the <b>Manage Jenkins > Configure System > Jenkins Location</b>. <br>
+
+</Details>
+
+#### In which file, it stores the details of `Update Site` URL in the system?
+
+<Details>
+  <summary>Solution</summary>
+  It's store in the file <b>hudson.model.UpdateCenter.xml</b>. Which is located in the path <b>/var/lib/jenkins/</b> in Linux distribution. May be different as per installation process. We can add/update <b>Update Site URL</b> into that file also and restart the Jenkins service after made changes. <br>
+  https://stackoverflow.com/a/37989185/12522533 
+
+</Details>
+
