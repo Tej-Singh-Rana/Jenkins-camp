@@ -33,6 +33,7 @@
 - [Define Parameters](https://wiki.jenkins.io/display/JENKINS/Define+Parameters)
 - [Referencing Another Project by Name](https://www.jenkins.io/doc/book/using/referencing-another-project-by-name/)
 - [Pipeline Summary and Feature](https://www.jenkins.io/pipeline/getting-started-pipelines/)
+- [Setting up the Project in the Jenkins](https://wiki.jenkins.io/display/JENKINS/Building+a+software+project)
 
 #### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
@@ -59,7 +60,7 @@
 
 #### [Notes](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
-- Jenkins instance root's page in the sense Jenkins main dashboard page. Default - (http://localhost:8080/)
+- Jenkins instance root's page in the sense Jenkins main dashboard page. <b>Default</b> - (http://localhost:8080/) 
 
 
 
