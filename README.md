@@ -59,7 +59,7 @@
 
 #### [Notes](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
-#### - Jenkins instance root's page in the sense Jenkins main dashboard page.
+- Jenkins instance root's page in the sense Jenkins main dashboard page.
 
 
 
