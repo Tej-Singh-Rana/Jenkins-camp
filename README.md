@@ -57,7 +57,9 @@
 - [Folders](https://docs.cloudbees.com/docs/admin-resources/latest/plugins/folder)
 
 
+#### [Notes](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
+- Jenkins instance root's page in the sense Jenkins Main Dashboard page.
 
 
 
