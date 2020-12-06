@@ -597,7 +597,16 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### How Jenkins will trigger your code modifications/changes from the cloud-based SCM repository?
 
+<Details>
+  <summary>Solution</summary>
+  Through <b>Source Code Management > Build Triggers > Poll SCM</b>. We have to set the schedule in <b>Poll SCM</b> to check in every <b>sec/min/hr/day/week/month</b>. <br>
+  <b>Format is based on the cron. (* * * * *)</b> <br>
+  https://crontab.guru/ <br>
+  https://stackoverflow.com/q/10121098/12522533 <br>
+
+</Details>
 
 
 
