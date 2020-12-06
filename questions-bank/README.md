@@ -518,7 +518,7 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 <Details>
   <summary>Solution</summary>
-  <b>Build Tools: Gradle, Groovy, Ant, Maven etc. </b> <br>
+  <b>Build Tools: Gradle, Groovy, Ant, Maven and NPM etc. </b> <br>
   https://plugins.jenkins.io/
 
 </Details>
@@ -563,7 +563,13 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### What is the original project name and year of renamed original project to Jenkins?
 
+<Details>
+  <summary>Solution</summary>
+  The original project name is <b>Hudson</b> and renamed into <b>Jenkins</b> in 2011.
+   
+</Details>
 
 
 
