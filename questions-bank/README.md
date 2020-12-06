@@ -580,7 +580,22 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details>  
 
+#### What is the other name of Source Code Management System (SCM)?
 
+<Details>
+  <summary>Solution</summary>
+  <b>Version Control System (VCS)</b>. <br>
+  https://www.cloudbees.com/blog/source-code-management-more-just-git
+
+</Details>
+
+#### By default, we will get any VCS installed in Jenkins instance/controller?
+
+<Details>
+  <summary>Solution</summary>
+  <b>No, It's available after installed and configured respective VCS plugin.</b>
+
+</Details>
 
 
 
