@@ -571,6 +571,14 @@ https://www.jenkins.io/download/#downloading-jenkins
    
 </Details>
 
+#### Does the pipeline runs each time if the code is modified?
+
+<Details>
+  <summary>Solution</summary>
+  <b>Yes</b> <br>
+  https://www.jenkins.io/doc/book/pipeline/  
+  
+</Details>  
 
 
 
