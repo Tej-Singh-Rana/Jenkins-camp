@@ -608,7 +608,30 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### List the different types of testing which is fast in the Jenkins?
 
+<Details>
+ <summary>Solution</summary>
+ <b>Unit testing, integration testing, and smoke testing</b> 
+  
+</Details>
+
+#### What is the name of testing, which can be run in the same order, parallel and define different tests to run at different stages?
+
+<Details>
+  <summary>Solution</summary>
+  Yes, it is <b>Automated testing</b>. <br>
+  https://www.jenkins.io/doc/developer/testing/
+
+</Details>
+
+#### Which one is testing the small piece of code?
+
+<Details>
+  <summary>Solution</summary>
+  It's <b>Unit tests.</b>
+
+</Details>
 
 
 
