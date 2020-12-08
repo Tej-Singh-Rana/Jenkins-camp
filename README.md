@@ -34,6 +34,7 @@
 - [Referencing Another Project by Name](https://www.jenkins.io/doc/book/using/referencing-another-project-by-name/)
 - [Pipeline Summary and Feature](https://www.jenkins.io/pipeline/getting-started-pipelines/)
 - [Setting up the Project in the Jenkins](https://wiki.jenkins.io/display/JENKINS/Building+a+software+project)
+- [Removing and Disabling Plugins](https://wiki.jenkins.io/display/JENKINS/Removing+and+disabling+plugins)
 
 #### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
