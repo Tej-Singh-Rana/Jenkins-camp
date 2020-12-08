@@ -56,7 +56,7 @@
 - [Inject Secret into Jenkins Pipeline using withCredentials](https://support.cloudbees.com/hc/en-us/articles/203802500-Injecting-Secrets-into-Jenkins-Build-Jobs?page=86#resolution)
 - [Parameters](https://wiki.jenkins.io/display/jenkins/parameterized+build)
 - [Folders](https://docs.cloudbees.com/docs/admin-resources/latest/plugins/folder)
-
+- [Jenkins Best Practices](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices)
 
 #### [Notes](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
