@@ -653,8 +653,78 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details> 
 
+#### What is the runtime requirements for `Operating System` to run a Jenkins?
 
+<Details>
+  <summary>Solution</summary>
+  Operating system limits max number of <b>open files</b>, max number of <b>forked processes</b>, <b>network tuning (packet size, TCP timeouts)</b>. <br>
 
+</Details>
+
+#### In what situation, disk usages grows over time on Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  When we start to build the host jobs and due to distance of host, it increases files size. Because Jenkins writes a lot of files (Artifacts, logs and other files) as it processes builds.  
+  
+</Details>
+
+#### What is the disk requirements to run a Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  In Jenkins, bigger disk is good but low latency <b>SSD</b> disk is perfect. 
+
+</Details>
+
+#### NFS, SAN supported by Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  <b>Yes</b><br>
+  https://support.cloudbees.com/hc/en-us/articles/217479948-NFS-Guide
+
+</Details>
+
+#### During processes of builds what kind of files it generates?
+
+<Details>
+  <summary>Solution</summary>
+  Artifacts, logs and other files (tmp/xml).
+
+</Details>
+
+#### Can back up Jenkins files to a local directory then copy those files to an external location?
+
+<Details>
+  <summary>Solution</summary>
+  Yes, We can. But must have enough space on the disk to accommodate the backed up files. <br>
+  Instead of create a separate filesystem for the backup directory. <br>
+
+</Details>
+
+#### Which volume type is supported by Linux/Windows?
+
+<Details>
+  <summary>Solution</summary>
+  <b>Spanned</b> volume on Windows. <br>
+  <b>LVM</b> on Linux but not recommended for initial level because have to do upfront planning for this. <br>
+  https://www.jenkins.io/doc/book/scaling/architecting-for-scale/#scalable-storage-for-master
+  
+</Details>
+
+#### List all the `Build Status`.
+
+<Details>
+  <summary>Solution</summary>
+  <b>Aborted:</b> Interrupted before it reaches its expected end. <br>
+  <b>Failed:</b> Failed due to fatal error. <br>
+  <b>Stable:</b> The Build was Successful and no Publisher reports it as Unstable. <br>
+  <b>Successful:</b> No compilation errors. <br>
+  <b>Unstable:</b> The Build had some errors but they were not fatal. A Build is unstable if it was built successfully and one or more publishers report it unstable. <br>
+  https://www.jenkins.io/doc/book/glossary/#build-status
+
+</Details>
 
 
 
