@@ -38,6 +38,7 @@
 - [Java Heap Settings Best Practice](https://support.cloudbees.com/hc/en-us/articles/204859670-Java-Heap-settings-best-practice)
 - [Jenkins JVM Troubleshooting](https://docs.cloudbees.com/docs/admin-resources/latest/jvm-troubleshooting/#_heap_size)
 - [Best Strategy for Disk Space Management](https://support.cloudbees.com/hc/en-us/articles/215549798-Best-Strategy-for-Disk-Space-Management-Clean-Up-Old-Builds)
+- [Folder Structure of $JENKINS_HOME](https://www.jenkins.io/doc/book/scaling/architecting-for-scale/#anatomy-of-a-jenkins_home)
 
 #### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
