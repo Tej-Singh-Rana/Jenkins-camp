@@ -633,7 +633,25 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### What is the minimum requirements to run a Jenkins?
 
+<Details>
+ <summary>Solution</summary>
+ current versions of <b>Linux/Windows/macOS/Unix|BSD</b>, <b>Java 8 or 11</b>, Jenkins LTS runs on <b>Java 11</b> in Release <b>2.164.1 or newer</b>.
+
+</Details>
+
+#### What is the runtime requirements for `JVM` to run a Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  <b>Java Virtual Machine (JVM) must be tuned: <br>
+  Memory Heap size: -Xms1G -Xmx2G <br>
+  G1 garbage collector for heap > 4GB : -XX:+UseG1GC <br>
+  -XX:+UseG1GC: enables the G1 Garbage Collector </b> <br>
+  https://docs.cloudbees.com/docs/admin-resources/latest/jvm-troubleshooting/#suggested-specifications
+
+</Details> 
 
 
 
