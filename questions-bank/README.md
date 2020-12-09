@@ -767,7 +767,14 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details>
 
+#### Where can we add, remove, control and view the nodes in Jenkins?
 
+<Details>
+  <summary>Solution</summary>
+  <b>Manage Jenkins > Manage Nodes and Clouds</b> <br>
+  https://wiki.jenkins.io/display/JENKINS/Distributed+builds
+  
+</Details>
 
 
 
