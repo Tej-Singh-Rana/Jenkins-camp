@@ -726,5 +726,51 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### Where can we set the new URL to access Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  You have to move into the <b> Manage Jenkins > Configure System</b>, after drop down you will see <b>Jenkins Location</b> where you have to set the new URL in <b>Jenkins URL</b>. URL should be ideal/easy. <br>
+
+</Details>
+
+#### Which section covers the controlling or restriction access to third party sites and applications through credentials?
+
+<Details>
+  <summary>Solution</summary>
+  It's a <b>Manage Jenkins > Configure Credential Providers</b>. <br>
+  Like <b>Artifact Repositories, Cloud-based Storage Systems, Services</b> and so on. <br>
+  https://www.jenkins.io/doc/book/using/using-credentials/#using-credentials
+  
+</Details> 
+
+#### Which type of credentials it supports in Jenkins to access third party providers/applications?
+
+<Details>
+  <summary>Solution</summary>
+  <b>Secret text:</b> A token such as an API token (e.g. a GitHub personal access token). <br>
+  <b>Username and password:</b> Which could be handled as separate components or as a colon separated string in the format <b>username:password</b>. (e.g. david:s8*4123dhf) <br>
+  <b>Secret file:</b> Which is essentially secret content in a file. <br>
+  <b>SSH Username with private key:</b> An SSH public/private key pair. <br>
+  <b>Certificate:</b> A PKCS#12 Certificate file and optional Password. <br>
+  <b>Docker Host Certificate Authentication credentials.</b> <br>
+
+</Details>
+
+#### Where can we run an arbitrary Groovy script on the server in Jenkins UI?
+
+<Details>
+  <summary>Solution</summary>
+  You have to move into the <b>Manage Jenkins > Script Console</b>. <br>
+  Scripts execute in a <b>Groovy Sandbox</b> that limits the <b>internal APIs</b> that are accessible. To secure unsafe method to display result in the Jenkins environment, Admin can use <b>Script Security Plugin</b>. <br>
+  https://www.jenkins.io/doc/book/managing/script-console/#script-console
+  
+</Details>
+
+
+
+
+
+
 
 
