@@ -37,6 +37,7 @@
 - [Removing and Disabling Plugins](https://wiki.jenkins.io/display/JENKINS/Removing+and+disabling+plugins)
 - [Java Heap Settings Best Practice](https://support.cloudbees.com/hc/en-us/articles/204859670-Java-Heap-settings-best-practice)
 - [Jenkins JVM Troubleshooting](https://docs.cloudbees.com/docs/admin-resources/latest/jvm-troubleshooting/#_heap_size)
+- [Best Strategy for Disk Space Management](https://support.cloudbees.com/hc/en-us/articles/215549798-Best-Strategy-for-Disk-Space-Management-Clean-Up-Old-Builds)
 
 #### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
