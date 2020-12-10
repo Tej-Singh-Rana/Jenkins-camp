@@ -785,6 +785,13 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### Who manages the executors on a remote node on behalf of Jenkins?
 
+<Details>
+  <summary>Solution</summary>
+  <b>Agent</b> <br>
+  https://support.cloudbees.com/hc/en-us/articles/216456477-What-is-a-Jenkins-Executor-and-how-can-I-best-utilize-my-executors
+
+</Details>
 
 
