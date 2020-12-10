@@ -809,3 +809,34 @@ https://www.jenkins.io/download/#downloading-jenkins
   It's a <b>Manage Jenkins > Load Statistics</b>. <br>
 
 </Details>
+
+#### Where can we see the activities or information of processes running on the Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  In the <b>System Log</b> from the <b>Manage Jenkins</b>. <br>
+  It doesn't contain build logs.<br>
+  https://www.jenkins.io/doc/book/system-administration/viewing-logs/
+
+</Details>
+
+#### Where can we set the custom log recorder in the Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  Move into the <b>Manage Jenkins > System Log > Add New Log Recorder</b>. <br>
+  https://www.jenkins.io/doc/book/system-administration/viewing-logs/#logs-in-jenkins <br>
+
+</Details>
+
+#### What kind of reports contain `Load Statistics` about nodes configured on Jenkins? 
+
+<Details>
+  <summary>Solution</summary>
+  <b>Number of online executors. <br>
+  Number of busy executors. <br>
+  Number of available executors. <br>
+  Queue length (number of jobs that are waiting for an available executor).</b> <br>
+  
+</Details>
+
