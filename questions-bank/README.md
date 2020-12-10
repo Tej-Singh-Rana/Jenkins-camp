@@ -794,4 +794,18 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### In which location we can set the executors in the Jenkins UI?
 
+<Details>
+  <summary>Solution</summary>
+  We can set the executors in the multiple locations, which are : <b>Manage Jenkins > Configure System</b> and <b>Manage Jenkins > Manage Nodes and Clouds (in the Node's Configure Settings)</b> <br>
+  
+</Details>
+
+#### From which section we can monitor the resource utilization of Jenkins instance?
+
+<Details>
+  <summary>Solution</summary>
+  It's a <b>Manage Jenkins > Load Statistics</b>. <br>
+
+</Details>
