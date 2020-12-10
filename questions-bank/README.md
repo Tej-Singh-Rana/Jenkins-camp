@@ -776,7 +776,14 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details>
 
+#### Where can we add/delete/modify user to the `Jenkins User Database` and lists all the users who are in that Database?
 
+<Details>
+  <summary>Solution</summary>
+  Go into the <b>Manage Jenkins > Manage Users</b> <br>
+  https://wiki.jenkins.io/display/jenkins/standard+security+setup  
+
+</Details>
 
 
 
