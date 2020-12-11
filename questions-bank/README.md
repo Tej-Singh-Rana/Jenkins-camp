@@ -840,3 +840,26 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details>
 
+#### Where can you see the list of system properties, environmental variables, memory usages, thread dumps and plugins all at once in the Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  You can see from the <b>Manage Jenkins > System Information</b>. <br>
+
+</Details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
