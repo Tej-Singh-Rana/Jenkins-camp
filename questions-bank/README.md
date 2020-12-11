@@ -845,6 +845,7 @@ https://www.jenkins.io/download/#downloading-jenkins
 <Details>
   <summary>Solution</summary>
   You can see from the <b>Manage Jenkins > System Information</b>. <br>
+  <b>System Properties</b> that can be used as arguments to the command line to start Jenkins and <b>Environment Variables</b> with current values. <br>
 
 </Details>
 
@@ -876,12 +877,27 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 <Details>
   <summary>Solution</summary>
-  In the <b>Manage Jenkins > About Jenkins</b> page.
+  In the <b>Manage Jenkins > About Jenkins</b> page. Contain links of all third-party dependencies for each plugins. 
 
 </Details>
 
+#### Where is located the Jenkins CLI page in the Jenkins?
 
+<Details>
+  <summary>Solution</summary>
+  It's located at <b>Manage Jenkins > Jenkins CLI</b>. It's used to access and manage Jenkins from a shell or from a script. <br>
+  https://www.jenkins.io/doc/book/managing/cli/  <br>
 
+</Details>
+
+#### How can we remove the old data from the Jenkins instance?
+
+<Details>
+  <summary>Solution</summary>
+  Go into the <b>Manage Jenkins > Manage Old data</b>. <br>
+  https://www.jenkins.io/doc/book/managing/plugins/#removing-old-data
+  
+</Details>
 
 
 
