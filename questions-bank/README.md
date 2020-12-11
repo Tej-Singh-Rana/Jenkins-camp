@@ -856,6 +856,47 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### What is the name of page where can we see the release and version details of Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  In the <b>Manage Jenkins > About Jenkins</b> page.
+
+</Details>
+
+#### Where can we see the list of third party libraries and about each libraries details?
+
+<Details>
+  <summary>Solution</summary>
+  In the <b>Manage Jenkins > About Jenkins</b> page.
+
+</Details>
+
+#### What is the location of license and dependency information for plugins in the Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  In the <b>Manage Jenkins > About Jenkins</b> page.
+
+</Details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
