@@ -848,7 +848,13 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### Where can we see the list of installed plugins in the Jenkins?
 
+<Details>
+  <summary>Solution</summary>
+  In the <b>Manage Jenkins > Manage Plugins</b> under the <b>installed</b> tab and in the <b>Manage Jenkins > System Information</b> under the <b>Plugins</b> section. <br>
+
+</Details>
 
 
 
