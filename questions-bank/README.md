@@ -899,7 +899,23 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details>
 
+#### What is the extension of Jenkins plugin files?
 
+<Details>
+  <summary>Solution</summary>
+  <b>.hpi or .jpi</b> extension. <br>
+  https://stackoverflow.com/questions/30658375/what-is-difference-between-hpi-and-jpi-of-jenkins-plugins  
+
+</Details>
+
+#### What is the Jenkins argument to change the directory where the plugins are being installed?
+
+<Details>
+  <summary>Solution</summary>
+  Option is <b>--pluginroot</b>. <br>
+  https://support.cloudbees.com/hc/en-us/articles/115000486312-CloudBees-CI-CloudBees-Core-Performance-Best-Practices-for-Linux#jenkinshomesharedstorage
+  
+</Details>
 
 
 
