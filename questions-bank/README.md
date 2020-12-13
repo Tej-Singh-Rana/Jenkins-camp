@@ -917,7 +917,14 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details>
 
+#### How can we downgrade the installed plugins if something wrong happens?
 
+<Details>
+  <summary>Solution</summary>
+  From Jenkins GUI, it's not possible. Instead, we have to install the old version or different version after that put the <b>.hpi</b> plugin file into the path <b>$JENKINS_HOME/plugins</b>. <br>
+  https://www.jenkins.io/doc/book/managing/plugins/#on-the-master
+  
+</Details>
 
 
 
