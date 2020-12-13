@@ -10,7 +10,7 @@
 5. [CloudBees Official Site](https://www.cloudbees.com/jenkins)
 6. [Jenkins Discussion](https://wiki.jenkins.io/display/JENKINS) 
 7. [Why Jenkins Certification](https://www.jenkins.io/blog/2016/03/15/jenkins-certification/)
-
+8. [CJE Exam Preparation Sheet](https://www.startcloudnow.com/devops.html)
 
 ### [Plugins](https://plugins.jenkins.io/)
 ------------
