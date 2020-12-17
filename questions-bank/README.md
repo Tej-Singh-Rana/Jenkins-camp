@@ -944,7 +944,13 @@ https://www.jenkins.io/download/#downloading-jenkins
 	
 </Details>
 
+#### After uninstall the plugin, it will also remove the configuration files that it's created?
 
+<Details>
+  <summary>Solution</summary>
+  No, it will not remove that configuration files. We can use <b>Manage Old Data</b> page to remove those configuration files left by an uninstalled plugin. <br>
+
+</Details>
 
 
 
