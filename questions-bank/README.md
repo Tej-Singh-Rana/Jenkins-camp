@@ -952,7 +952,13 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### Can we remove the plugin binary from `$JENKINS_HOME/plugins` directory to remove the plugin?
 
+<Details>
+  <summary>Solution</summary>
+  Yes, we can remove <b>.hpi or .jpi</b> file from the <b>$JENKINS_HOME/plugins</b> directory to remove/uninstall the plugin. <br>
+
+</Details>
 
 
 
