@@ -934,7 +934,15 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### If we uninstall the plugin after that plugin will work until we will not restart the Jenkins? 
 
+<Details>
+  <summary>Solution</summary>
+  Yes, plugin continues to function until you restart Jenkins. <br>
+  After a restart, plugin does not appear in the Jenkins GUI and all extensions it contributed disappear. <br>
+  https://wiki.jenkins.io/display/JENKINS/Removing+and+disabling+plugins
+	
+</Details>
 
 
 
