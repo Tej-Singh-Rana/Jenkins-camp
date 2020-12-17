@@ -926,7 +926,13 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details>
 
-#### 
+#### What is the mean of `greyed-out` check marks and `no uninstall` button for plugins in the `Installed` tab from the `Manage Plugins`?
+
+<Details>
+  <summary>Solution</summary>
+  That's means that are required by other plugins. <br>
+
+</Details>
 
 
 
