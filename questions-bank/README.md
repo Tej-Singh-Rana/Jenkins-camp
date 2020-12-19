@@ -960,7 +960,14 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
-#### 
+#### `*.jpi.disabled` or `*.hpi.disabled` files available in the `$JENKINS_HOME/plugins` directory. What is the meaning of that file in Jenkins?
+
+<Details>
+  <summary>Solution</summary>
+  That means the plugin is <b>disabled</b> and contains suffix <b>.disabled</b> at the end of the plugin file. <br>
+  https://support.cloudbees.com/hc/en-us/articles/204323074-How-to-disable-a-plugin-when-Jenkins-is-down-
+
+</Details>
 
 
 
