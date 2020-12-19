@@ -965,13 +965,17 @@ https://www.jenkins.io/download/#downloading-jenkins
 <Details>
   <summary>Solution</summary>
   That means the plugin is <b>disabled</b> and contains suffix <b>.disabled</b> at the end of the plugin file. <br>
-  https://support.cloudbees.com/hc/en-us/articles/204323074-How-to-disable-a-plugin-when-Jenkins-is-down-
+  https://support.cloudbees.com/hc/en-us/articles/204323074-How-to-disable-a-plugin-when-Jenkins-is-down- <br>
 
 </Details>
 
+#### How can we clean up configurations left by uninstalled and disabled plugins in the Jenkins?
 
+<Details>
+  <summary>Solution</summary>
+  We can choose the <b>Manage Jenkins > Manage Old Data</b> page to clean up those configuration files. <br>
+  https://www.jenkins.io/doc/book/managing/plugins/#removing-old-data <br>
 
-
-
+</Details>
 
 ####
