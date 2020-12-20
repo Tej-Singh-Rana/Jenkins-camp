@@ -978,7 +978,7 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
-#### How can we notify the admin for success of build notification?
+#### How can we notify the admin for success of job builds via notification?
 
 <Details>
   <summary>Solution</summary>
