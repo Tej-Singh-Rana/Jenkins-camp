@@ -978,7 +978,15 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
-#### 
+#### How can we notify the admin for success of build notification?
+
+<Details>
+  <summary>Solution</summary>
+  Through email, slack and SMS notifications etc. Many third party plugins are available to send notification messages. <br>
+  https://www.cloudbees.com/blog/sending-notifications-pipeline <br>
+  https://www.jenkins.io/blog/2017/02/15/declarative-notifications/ <br>
+
+</Details>
 
 
 
