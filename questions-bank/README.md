@@ -988,9 +988,14 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
-#### 
+#### Folders can be nestable in the Jenkins? (e.g. folder-A/folder-B/folder-C)
 
+<Details>
+  <summary>Solution</summary>
+  Yes, we can create nested subfolders in the Jenkins. <br>
+  https://docs.cloudbees.com/docs/admin-resources/latest/plugins/folder <br>
 
+</Details>
 
 
 
