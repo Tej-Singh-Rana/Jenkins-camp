@@ -997,9 +997,17 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### What is the default location of logs on Linux Systems for Jenkins?
 
-
-####
+<Details>
+  <summary>Solution</summary>
+  By default, logs are available in <b>/var/log/jenkins/jenkins.log</b>. <br>
+  Log location can be customized: <br>
+  In <b>/etc/default/jenkins</b> (for *.deb) <br>
+  In <b>/etc/sysconfig/jenkins</b> (for *.rpm) <br>
+  https://www.jenkins.io/doc/book/system-administration/viewing-logs/#viewing-logs <br>
+  
+</Details> 
 
 
 
