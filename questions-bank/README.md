@@ -1009,11 +1009,16 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details> 
 
+#### What is the default location of logs on Windows Systems for Jenkins?
 
+<Details>
+  <summary>Solution</summary>
+  By default logs should be at <b>%JENKINS_HOME%/jenkins.out</b> and <b>%JENKINS_HOME%/jenkins.err</b> <br>
+  Log location can be customized: <br>
+  In <b>%JENKINS_HOME%/jenkins.xml</b> <br>
+  https://www.jenkins.io/doc/book/system-administration/viewing-logs/#windows <br>
 
-
-
-####
+</Details>
 
 
 
