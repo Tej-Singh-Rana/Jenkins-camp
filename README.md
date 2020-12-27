@@ -56,14 +56,14 @@
 - [Artifacts](https://www.jenkins.io/doc/pipeline/steps/core/#archiveartifacts-archive-the-artifacts)
 - [Fingerprints](https://www.jenkins.io/doc/book/using/fingerprints/#fingerprints)
 - [REST API](https://ci.jenkins.io/api/)
-- [Matrix Based Security](https://wiki.jenkins.io/display/JENKINS/Matrix-based+security)
+- [Matrix Based Security - Blog](https://wiki.jenkins.io/display/JENKINS/Matrix-based+security)
 - [withCredentials](https://www.jenkins.io/doc/pipeline/steps/credentials-binding/#credentials-binding-plugin)
 - [Inject Secret into Jenkins Pipeline using withCredentials](https://support.cloudbees.com/hc/en-us/articles/203802500-Injecting-Secrets-into-Jenkins-Build-Jobs?page=86#resolution)
 - [Parameters](https://wiki.jenkins.io/display/jenkins/parameterized+build)
 - [Folders](https://docs.cloudbees.com/docs/admin-resources/latest/plugins/folder)
 - [Jenkins Best Practices](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices)
 - [Distributed Builds Architecture](https://www.jenkins.io/doc/book/scaling/architecting-for-scale/#distributed-builds-architecture)
-- [Distributed Builds Architecture - Old](https://wiki.jenkins.io/display/JENKINS/Distributed+builds)
+- [Distributed Builds Architecture - Blog](https://wiki.jenkins.io/display/JENKINS/Distributed+builds)
 
 #### [Notes](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
