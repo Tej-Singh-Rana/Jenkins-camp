@@ -1020,11 +1020,23 @@ https://www.jenkins.io/download/#downloading-jenkins
 
 </Details>
 
+#### Where can we check logs on Jenkins GUI?
 
+<Details>
+  <summary>Solution</summary>
+  In the <b>Manage Jenkins > System Log</b>. <br>
+  https://www.jenkins.io/doc/book/system-administration/viewing-logs/#logs-in-jenkins <br>
 
+</Details>
 
+#### Is it possible to create a custom log recorder? If yes, then where can we create?
 
-####
+<Details>
+  <summary>Solution</summary>
+  In the <b>Manage Jenkins > System Log > New Log Recorder</b>. <br>
+  Path is <b>http://localhost:8080/log/new </b> <br>
+ 
+</Details>
 
 
 
