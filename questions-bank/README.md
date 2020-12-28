@@ -1038,12 +1038,23 @@ https://www.jenkins.io/download/#downloading-jenkins
  
 </Details>
 
+#### To monitor the server loads and displays a graph of the server load time for the master node which four metrics should be consider?
 
+<Details>
+  <summary>Solution</summary>
+  <b>Number of online executors, Number of busy executors, Number of available executors and Queue length</b>. <br>
+  
+</Details>
 
-####
+#### Name of open source plugins are available for monitoring.
 
-
-
+<Details>
+  <summary>Solution</summary>
+  some of the popular ones are: <br>
+  <b>Monitoring, Disk Usage and Build Monitor</b>. <br>
+  https://www.jenkins.io/doc/book/system-administration/monitoring/ <br>
+  
+</Details>
 
 ####
 
