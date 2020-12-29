@@ -59,7 +59,6 @@
 - [Artifacts](https://www.jenkins.io/doc/pipeline/steps/core/#archiveartifacts-archive-the-artifacts)
 - [Fingerprints](https://www.jenkins.io/doc/book/using/fingerprints/#fingerprints)
 - [REST API](https://ci.jenkins.io/api/)
-- [Matrix Based Security - Blog](https://wiki.jenkins.io/display/JENKINS/Matrix-based+security)
 - [withCredentials](https://www.jenkins.io/doc/pipeline/steps/credentials-binding/#credentials-binding-plugin)
 - [Inject Secret into Jenkins Pipeline using withCredentials](https://support.cloudbees.com/hc/en-us/articles/203802500-Injecting-Secrets-into-Jenkins-Build-Jobs?page=86#resolution)
 - [Parameters - Blog](https://wiki.jenkins.io/display/jenkins/parameterized+build)
@@ -67,6 +66,12 @@
 - [Jenkins Best Practices - Blog](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices)
 - [Distributed Builds Architecture](https://www.jenkins.io/doc/book/scaling/architecting-for-scale/#distributed-builds-architecture)
 - [Distributed Builds Architecture - Blog](https://wiki.jenkins.io/display/JENKINS/Distributed+builds)
+- [Using Credentials](https://www.jenkins.io/doc/book/using/using-credentials/)
+- [Secrets](https://www.jenkins.io/doc/developer/security/secrets/)
+- [Quick and Simple Security](https://wiki.jenkins.io/display/JENKINS/Quick+and+Simple+Security)
+- [Script Security](https://plugins.jenkins.io/script-security/)
+- [Best Practices - Setting Jenkins Auditing and Compliance](https://www.cloudbees.com/blog/best-practices-setting-jenkins-auditing-and-compliance)
+- [Matrix Based Security - Blog](https://wiki.jenkins.io/display/JENKINS/Matrix-based+security)
 
 #### [Notes](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
