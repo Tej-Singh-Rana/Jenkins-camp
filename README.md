@@ -31,15 +31,16 @@
 
 - [Memory Management](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html)
 - [Cancellation of Jobs](https://gist.github.com/datagrok/dfe9604cb907523f4a2f#when-you-cancel-a-jenkins-job)
-- [Define Parameters](https://wiki.jenkins.io/display/JENKINS/Define+Parameters)
+- [Define Parameters - Blog](https://wiki.jenkins.io/display/JENKINS/Define+Parameters)
 - [Referencing Another Project by Name](https://www.jenkins.io/doc/book/using/referencing-another-project-by-name/)
 - [Pipeline Summary and Feature](https://www.jenkins.io/pipeline/getting-started-pipelines/)
-- [Setting up the Project in the Jenkins](https://wiki.jenkins.io/display/JENKINS/Building+a+software+project)
-- [Removing and Disabling Plugins](https://wiki.jenkins.io/display/JENKINS/Removing+and+disabling+plugins)
+- [Setting up the Project in the Jenkins - Blog](https://wiki.jenkins.io/display/JENKINS/Building+a+software+project)
+- [Removing and Disabling Plugins - Blog](https://wiki.jenkins.io/display/JENKINS/Removing+and+disabling+plugins)
 - [Java Heap Settings Best Practice](https://support.cloudbees.com/hc/en-us/articles/204859670-Java-Heap-settings-best-practice)
 - [Jenkins JVM Troubleshooting](https://docs.cloudbees.com/docs/admin-resources/latest/jvm-troubleshooting/#_heap_size)
 - [Best Strategy for Disk Space Management](https://support.cloudbees.com/hc/en-us/articles/215549798-Best-Strategy-for-Disk-Space-Management-Clean-Up-Old-Builds)
 - [Folder Structure of $JENKINS_HOME](https://www.jenkins.io/doc/book/scaling/architecting-for-scale/#anatomy-of-a-jenkins_home)
+- [AGENT-TO-MASTER ACCESS CONTROL - Blog](https://wiki.jenkins.io/display/JENKINS/Slave+To+Master+Access+Control)
 
 #### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
@@ -60,9 +61,9 @@
 - [Matrix Based Security - Blog](https://wiki.jenkins.io/display/JENKINS/Matrix-based+security)
 - [withCredentials](https://www.jenkins.io/doc/pipeline/steps/credentials-binding/#credentials-binding-plugin)
 - [Inject Secret into Jenkins Pipeline using withCredentials](https://support.cloudbees.com/hc/en-us/articles/203802500-Injecting-Secrets-into-Jenkins-Build-Jobs?page=86#resolution)
-- [Parameters](https://wiki.jenkins.io/display/jenkins/parameterized+build)
+- [Parameters - Blog](https://wiki.jenkins.io/display/jenkins/parameterized+build)
 - [Folders](https://docs.cloudbees.com/docs/admin-resources/latest/plugins/folder)
-- [Jenkins Best Practices](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices)
+- [Jenkins Best Practices - Blog](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices)
 - [Distributed Builds Architecture](https://www.jenkins.io/doc/book/scaling/architecting-for-scale/#distributed-builds-architecture)
 - [Distributed Builds Architecture - Blog](https://wiki.jenkins.io/display/JENKINS/Distributed+builds)
 
