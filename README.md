@@ -40,7 +40,8 @@
 - [Jenkins JVM Troubleshooting](https://docs.cloudbees.com/docs/admin-resources/latest/jvm-troubleshooting/#_heap_size)
 - [Best Strategy for Disk Space Management](https://support.cloudbees.com/hc/en-us/articles/215549798-Best-Strategy-for-Disk-Space-Management-Clean-Up-Old-Builds)
 - [Folder Structure of $JENKINS_HOME](https://www.jenkins.io/doc/book/scaling/architecting-for-scale/#anatomy-of-a-jenkins_home)
-- [AGENT-TO-MASTER ACCESS CONTROL - Blog](https://wiki.jenkins.io/display/JENKINS/Slave+To+Master+Access+Control)
+- [Agent-to-Master Access Control - Blog](https://wiki.jenkins.io/display/JENKINS/Slave+To+Master+Access+Control)
+- [Content Security Policy](https://www.jenkins.io/doc/book/system-administration/security/configuring-content-security-policy/)
 
 #### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
