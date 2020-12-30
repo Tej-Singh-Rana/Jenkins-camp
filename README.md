@@ -12,6 +12,7 @@
 7. [Why Jenkins Certification](https://www.jenkins.io/blog/2016/03/15/jenkins-certification/)
 8. [CJE Exam Preparation Sheet](https://www.startcloudnow.com/devops.html)
 9. [Katacoda Scenario - CI/CD](https://katacoda.com/courses/cicd)
+10. [Benjamin Muschko - Certified Jenkins Engineer (CJE) Prep Course](https://github.com/bmuschko/cje-prep)
 
 ### [Plugins](https://plugins.jenkins.io/)
 ------------
