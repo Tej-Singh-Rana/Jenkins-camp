@@ -44,6 +44,7 @@
 - [Agent-to-Master Access Control - Blog](https://wiki.jenkins.io/display/JENKINS/Slave+To+Master+Access+Control)
 - [Content Security Policy](https://www.jenkins.io/doc/book/system-administration/security/configuring-content-security-policy/)
 - [How to Connect to Remote SSH Agents](https://support.cloudbees.com/hc/en-us/articles/222978868-How-to-Connect-to-Remote-SSH-Agents-)
+- [Setting up GitHub Organization](https://docs.cloudbees.com/docs/cloudbees-jenkins-distribution/latest/distro-admin-guide/github-branch-source)
 
 #### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
