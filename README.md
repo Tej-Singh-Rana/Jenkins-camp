@@ -76,7 +76,7 @@
 - [Script Security](https://plugins.jenkins.io/script-security/)
 - [Best Practices - Setting Jenkins Auditing and Compliance](https://www.cloudbees.com/blog/best-practices-setting-jenkins-auditing-and-compliance)
 - [Matrix Based Security - Blog](https://wiki.jenkins.io/display/JENKINS/Matrix-based+security)
-- [Continuous Integration (CI) vs Continuous Deployment (CD)- Blog](https://www.cloudbees.com/continuous-delivery/continuous-integration)
+- [Continuous Integration (CI) vs Continuous Deployment (CD) - Blog](https://www.cloudbees.com/continuous-delivery/continuous-integration)
 
 #### [Notes](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
