@@ -46,6 +46,7 @@
 - [How to Connect to Remote SSH Agents](https://support.cloudbees.com/hc/en-us/articles/222978868-How-to-Connect-to-Remote-SSH-Agents-)
 - [Setting up GitHub Organization](https://docs.cloudbees.com/docs/cloudbees-jenkins-distribution/latest/distro-admin-guide/github-branch-source)
 - [Pipeline as Code](https://docs.cloudbees.com/docs/admin-resources/latest/pipelines/pipeline-as-code)
+- [GitHub Integration - Webhooks](https://support.cloudbees.com/hc/en-us/articles/224543927-GitHub-Integration-Webhooks)
 
 #### [Core Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
