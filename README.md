@@ -24,9 +24,9 @@
 #### [Certified Jenkins Engineer (CJE)](https://www.cloudbees.com/jenkins/certification)
 --------------------------------------
 
-| Number of Questions |  Pattern of Question      |     Time        |
-|---------------------|---------------------------|-----------------|
-|        60           | multiple-choice questions |     90 minutes  |
+| Number of Questions |  Pattern of Question      |     Time        |   Passing Percentage    |
+|---------------------|---------------------------|-----------------|-------------------------|
+|        60           | multiple-choice questions |     90 minutes  |        66%              |
 
 #### [Subjective Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
