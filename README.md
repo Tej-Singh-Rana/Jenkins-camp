@@ -28,6 +28,13 @@
 |---------------------|---------------------------|-----------------|-------------------------|
 |        60           | multiple-choice questions |     90 minutes  |        66%              |
 
+#### [Certified Jenkins Engineer (CJE) - Categories](https://www.cloudbees.com/jenkins/certification)
+
+<b>A. Jenkins Fundamentals </b> <br>	
+<b>B. Jenkins Administration	</b> <br>
+<b>C(i). Jenkins Build Technologies - Pipelines </b> <br>	
+<b>C(ii). Jenkins Build Technologies - Freestyle </b> <br>
+
 #### [Subjective Topics](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 
 - [Memory Management](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html)
