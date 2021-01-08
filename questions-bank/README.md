@@ -1056,9 +1056,13 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details>
 
-####
+#### What is the default Job type available in the Jenkins without installing plugin?
 
-
+<Details>
+  <summary>Solution</summary>
+  <b>Freestyle project</b> <br>
+  
+</Details>
 
 ####
 
