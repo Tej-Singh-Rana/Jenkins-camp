@@ -1064,8 +1064,17 @@ https://www.jenkins.io/download/#downloading-jenkins
   
 </Details>
 
+#### How can we configure the job build from the host system of Jenkins controller instead of Web UI?
+
+<Details>
+  <summary>Solution</summary>
+  To configure into the main configuration file under the <b>$JENKINS_HOME/jobs/[JOB_NAME]/config.xml</b>. <br>
+  https://www.jenkins.io/doc/book/managing/system-properties/#jenkins-model-jenkins-buildsdir 
+	
+</Details>
+
 ####
 
 
 
-####
+
