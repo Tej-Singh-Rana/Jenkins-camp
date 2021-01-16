@@ -1073,7 +1073,13 @@ https://www.jenkins.io/download/#downloading-jenkins
 	
 </Details>
 
-####
+#### What is the command to list the available jobs in the Jenkins by Jenkins CLI?
+
+<Details>
+  <summary>Solution</summary>
+  <b>java -jar jenkins-cli.jar -s http://JENKINS_URL list-jobs</b>
+  
+</Details>
 
 
 
