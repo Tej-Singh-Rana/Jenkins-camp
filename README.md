@@ -3,16 +3,17 @@
 ### [Sources and Study Materials to learn Jenkins](https://github.com/Tej-Singh-Rana/Jenkins-camp/blob/master/README.md)
 ---------------------------------------------------
 
-1. [Jenkins Official Site](https://www.jenkins.io/) 
+1. [__Jenkins Official Site__](https://www.jenkins.io/) 
 2. [Jenkins Use Cases](https://www.jenkins.io/solutions/)
 3. [Jenkins Tutorials](https://www.jenkins.io/doc/tutorials/)
-4. [Edx Jenkins Course](https://www.edx.org/course/introduction-to-jenkins) (Free Online Course)
+4. [Edx Jenkins Course](https://www.edx.org/course/introduction-to-jenkins) (__Free Online Course__)
 5. [CloudBees Official Site](https://www.cloudbees.com/jenkins)
 6. [Jenkins Discussion](https://wiki.jenkins.io/display/JENKINS) 
 7. [Why Jenkins Certification](https://www.jenkins.io/blog/2016/03/15/jenkins-certification/)
-8. [CJE Exam Preparation Sheet](https://www.startcloudnow.com/devops.html)
+8. [__CJE Exam Preparation Sheet__](https://www.startcloudnow.com/devops.html)
 9. [Katacoda Scenario - CI/CD](https://katacoda.com/courses/cicd)
-10. [Benjamin Muschko - Certified Jenkins Engineer (CJE) Prep Course](https://github.com/bmuschko/cje-prep)
+10. [__Benjamin Muschko - Certified Jenkins Engineer (CJE) Prep Course__](https://github.com/bmuschko/cje-prep)
+11. [__CloudBees University - Learn Jenkins__](https://standard.cbu.cloudbees.com/)
 
 ### [Plugins](https://plugins.jenkins.io/)
 ------------
