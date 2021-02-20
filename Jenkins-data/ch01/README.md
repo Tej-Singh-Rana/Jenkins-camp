@@ -5,3 +5,6 @@
 #### - [Weekly Support Release Cycle](https://www.jenkins.io/download/weekly/)
 #### - [Workflow Basic Steps](https://www.jenkins.io/doc/pipeline/steps/workflow-basic-steps/)
 
+## Docker Image
+
+#### - [Jenkins](https://hub.docker.com/r/jenkins/jenkins/)
