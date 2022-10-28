@@ -13,7 +13,8 @@
 8. [__CJE Exam Preparation Sheet__](https://www.startcloudnow.com/devops.html)
 9. [~Katacoda Scenario - CI/CD~](https://katacoda.com/courses/cicd)
 10. [__Benjamin Muschko - Certified Jenkins Engineer (CJE) Prep Course__](https://github.com/bmuschko/cje-prep)
-11. [__CloudBees University - Learn Jenkins__](https://standard.cbu.cloudbees.com/)
+11. [~__CloudBees University - Learn Jenkins__~](https://standard.cbu.cloudbees.com/)
+12. [__New CloudBees University - Learn Jenkins__](https://university.cloudbees.com/)
 
 ### [Plugins](https://plugins.jenkins.io/)
 ------------
